@@ -12,4 +12,4 @@ APP DEMO SCREENSHOTS
 <img src="https://user-images.githubusercontent.com/73190289/116863679-f0859680-ac06-11eb-85d8-a05c5898ad23.png" width="300" height="300">
 
 
-Any doubts please write to jbernar51@gmail.com
+Any doubts please write to jaimebernarjimenez@gmail.com
